@@ -1,1 +1,1 @@
-# advancedTipCalculator
+# advanced-tip-calculator
